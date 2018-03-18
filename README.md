@@ -1,2 +1,2 @@
-# Hello-world-
+# Hello-world
 Printing a string "Hello-world"
